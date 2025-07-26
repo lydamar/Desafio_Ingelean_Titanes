@@ -1,5 +1,10 @@
 # Desafío Ingelean Titanes – Análisis de Datos de Producción
 
+Integrantes:
+-Nicolas Estiven Valencia Ascencio - 1087991396
+-Lyda Marcela Baron Castañeda - 1000468839
+-Cristhian Andres Mendoza V - 1088310981
+
 Este proyecto realiza un **análisis exploratorio y predictivo** de datos de producción industrial con el objetivo de **optimizar la eficiencia operativa** y comprender los factores que más influyen en los resultados.
 
 ## Contenido del repositorio
